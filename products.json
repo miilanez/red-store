@@ -1,0 +1,33 @@
+{
+	"products" : [
+		{
+			"name" : "Uniforme Home Celtic",
+			"price" : "0.10",
+			"options" : [
+				{ "Size" : "P, M, G" }
+			],
+			"image" : "images/produtos/camisa_celtic.png",
+			"description" : "This is a very awesome grey T-shirt"
+		},
+		{
+			"name" : "Uniforme Home Fiorentina",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "P, M, G" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "images/produtos/camisa_fiorentina.png",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "Uniforme Hajduk Split",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "P, M, G" }
+			],
+			"image" : "https://i.ibb.co/n3nBm0d/hajduk-away.png",
+			"description" : "Uniforme titular do clube croata Hajduk Split."
+		}
+	]
+}
